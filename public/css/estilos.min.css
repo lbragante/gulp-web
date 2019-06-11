@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,800&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box; }
+
+::-moz-selection {
+  color: #0d291b;
+  background: #3fc380; }
+
+::selection {
+  color: #0d291b;
+  background: #3fc380; }
+
+body {
+  font-family: "Raleway", sans-serif;
+  background: #f1f4f8;
+  color: #3fc380; }

@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+::selection {
+    color: $cor-escura;
+    background: $cor-padrao;
+  }
+
+body {
+    font-family: $fonte-padrao;
+    background: $cor-clara;
+    color: $cor-padrao;
+}
